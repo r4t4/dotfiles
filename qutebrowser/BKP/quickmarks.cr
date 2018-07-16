@@ -1,0 +1,15 @@
+chrome-river.alchemist.issues https://docs.google.com/spreadsheets/d/1deImVEviyYO9GJgck_hjaFETTBnc_RM5nhxpjWkWI-A/edit#gid=0
+chrome-river.development.loggly https://cmccr.loggly.com/live_tail/
+chrome-river.engineering https://chromeriver.atlassian.net/wiki/spaces/EN/overview
+chrome-river.github https://github.com/Chrome-River
+chrome-river.github.krishnabot https://github.com/Chrome-River/krishnabot
+chrome-river.jenkins.create-branch https://jenkins.chromeriver.com/view/DEV/job/CreateReleaseBranch/
+chrome-river.jenkins.krishnabot https://jenkinsaws_master.us1.chromeriver.com/job/krishnabot/
+chrome-river.jira https://chromeriver.atlassian.net/secure/Dashboard.jspa
+chrome-river.krishnabot.current https://chromeriver.atlassian.net/browse/CRT-5652
+chrome-river.mercury.git https://github.com/Chrome-River/mercury
+chrome-river.onelogin https://chromeriver.onelogin.com/client/apps
+chrome-river.webapps https://webapps.chromeriver.com/
+chrome-river.wiki https://chromeriver.wikispaces.com/
+chrome-river.wiki.jumpbox https://chromeriver.atlassian.net/wiki/spaces/WH/pages/33162019/JumpBox+Database+Port+Tunnel+Settings
+crossbridge.log https://projects.zoho.com/portal/crossbridge#taskdetail/933314000000767005/933314000000767041/933314000001815023
